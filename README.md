@@ -2,7 +2,7 @@
 
 <hr>
 
-- Multi-Agent System (MAS) Autonomous SLAM Mission
+- Autonomous Collaborative-SLAM Mission
 
 <img src="gifs/MAS.gif" width="720" height="405" />
 
@@ -26,7 +26,7 @@
 
 <hr>
 
-- LiDAR SLAM
+- LiDAR SLAM of University Campus
 
 <img src="gifs/campus_SLAM.gif" width="720" height="405" />
 
@@ -38,12 +38,12 @@
 
 <hr>
 
-- Custom Dataset CNN Model (TensorFlow: Coco SSD MobileNet V2)
+- TensorFlow Model: Coco SSD MobileNet V2 using Custom Data Set on NVIDIA Jetson TX2 
 
 <img src="gifs/cnn_tb3.gif" width="720" height="405" />
 
 <hr>
 
-- This car was made from scratch in Gazebo using a homemade Ackerman Steering model. I demonstrate the smooth and skid-free response while analyzing the steering data and displaying the feed from a ros-camera. {ROS Melodic, C++, Simulation, Ubuntu 18.04}
+- Ackerman Steering Simulation from Scratch using Gazebo
 
 <img src="gifs/gazebo_car.gif" width="720" height="405" />
